@@ -2,9 +2,9 @@
 
 
 
-# Hi 👋, I'm Olivia Anetoh — Data Analyst
+# Hi 👋, I'm Olivia Anetoh, Data Analyst
 
-I turn raw data into insights businesses can actually act on. My background is in Geology, and that root-in-evidence mindset carries straight into how I work with data — I dig into the *why* behind a business problem before I ever open a dataset. I pay close attention to detail, think analytically, and I'm not satisfied with a chart until it tells a clear, honest story.
+I turn raw data into insights businesses can actually act on. My background is in Geology, and that habit of digging for evidence carries straight into how I work with data. I dig into the why behind a business problem before I ever open a dataset. I pay close attention to detail, think analytically, and I'm not satisfied with a chart until it tells a clear, honest story.
 
 ---
 
@@ -12,10 +12,10 @@ I turn raw data into insights businesses can actually act on. My background is i
 
 - 🎓 Background in Geology (BSc, University of Port Harcourt)
 - 📊 Focused on Data Analytics, Business Intelligence, and Customer Behaviour
-- 🧠 I lead with the business problem first — understanding root causes before touching the data
+- 🧠 I lead with the business problem first. I understand root causes before touching the data
 - 🛠 Hands-on with Power BI, Excel (Power Pivot, DAX, VBA), SQL, and statistical analysis (ANOVA)
 - 📦 I build trackers and inventory systems that solve real operational problems
-- 📈 Currently working on: a marketing performance project — digging into campaign engagement, impressions, and what actually drives conversions
+- 📈 Currently working on: a marketing performance project. Digging into campaign engagement, impressions, and what actually drives conversions
 - 📚 Always learning new tools and techniques to tell clearer data stories
 
 📫 **Junior Data Analyst | Open to entry-level and remote roles**
