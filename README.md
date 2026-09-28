@@ -1,6 +1,4 @@
-![Welcome Banner](images/banner.png)
-
-
+<img width="1280" height="476" alt="photo_2026-09-28_21-43-08" src="https://github.com/user-attachments/assets/178c0215-e841-4ffe-8626-ea239f136399" />
 
 # Hi 👋, I'm Olivia Anetoh, Data Analyst
 
