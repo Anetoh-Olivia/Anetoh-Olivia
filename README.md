@@ -15,7 +15,7 @@ I turn raw data into insights businesses can actually act on. My background is i
 - 🧠 I lead with the business problem first — understanding root causes before touching the data
 - 🛠 Hands-on with Power BI, Excel (Power Pivot, DAX, VBA), SQL, and statistical analysis (ANOVA)
 - 📦 I build trackers and inventory systems that solve real operational problems
-- 📁 Currently working on: Dano Airlines Power BI dashboard
+- 📈 Currently working on: a marketing performance project — digging into campaign engagement, impressions, and what actually drives conversions
 - 📚 Always learning new tools and techniques to tell clearer data stories
 
 📫 **Junior Data Analyst | Open to entry-level and remote roles**
@@ -35,6 +35,10 @@ I turn raw data into insights businesses can actually act on. My background is i
 
 ## 📊 Featured Projects
 
+**[Perfume Inventory Management System](https://github.com/Anetoh-Olivia/perfume-inventory-management-system)**
+Excel-based inventory system with Power Pivot, DAX, and VBA automation for a retail business.
+🔧 Tools: Excel, Power Pivot, DAX, VBA
+
 **[Global Retail Sales Analysis](https://github.com/Anetoh-Olivia/global-retail-sales-analysis-excel)**
 Investigated a $17M-to-$1M revenue collapse for a global electronics retailer.
 🔧 Tools: Excel, Power Query, Power Pivot, DAX
@@ -46,10 +50,6 @@ Power BI analysis of 2,235 customers across demographics, campaigns, and web pur
 **[Workplace Bias & Career Progression (ANOVA)](https://github.com/Anetoh-Olivia/-Workplace-Bias-and-Career-Progression-in-UK-Education-Leadership-Excel-)**
 Statistical investigation into gender, age, and career progression among UK education leaders.
 🔧 Tools: Excel, Data Analysis ToolPak, ANOVA
-
-**[Perfume Inventory Management System](https://github.com/Anetoh-Olivia/perfume-inventory-management-system)**
-Excel-based inventory system with Power Pivot, DAX, and VBA automation for a retail business.
-🔧 Tools: Excel, Power Pivot, DAX, VBA
 
 ---
 
