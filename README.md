@@ -57,4 +57,4 @@ Statistical investigation into gender, age, and career progression among UK educ
 - 🐦 [X (Twitter)](https://x.com/Chiche009)
 - 🎵 [TikTok](https://www.tiktok.com/@olivia_micheal)
 - 📧 [Email](mailto:anetohchinecherem@gmail.com)
-- 🌐 Portfolio: coming soon
+- 🌐 [Portfolio](https://Anetoh-Olivia.github.io/)
